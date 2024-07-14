@@ -1,6 +1,6 @@
 
 # android-native-study
-A list of simple app built by kotlin and jetpack-compose for study
+A list of simple apps built by kotlin and jetpack-compose for study
 
 1. Unit Convertor
 
